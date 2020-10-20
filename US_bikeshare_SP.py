@@ -20,7 +20,7 @@ def get_filters():
     print('Hello! Let\'s explore some US bikeshare data!')
 
     # get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs
-    print('Please specify if you want to analyze data for chicago, new york city or washington ?')
+    print('Please specify if you want to analyze data for Chicago, New York Yity or Washington ?')
     def cityname():
         city = str(input('Type city name :').lower())
         if city not in citynames:
