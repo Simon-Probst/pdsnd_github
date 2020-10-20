@@ -1,4 +1,4 @@
-#this is the refactoring file
+#This is the US_bikeshare programm created by Simon-Probst
 
 import time
 import pandas as pd
